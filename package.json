@@ -1,6 +1,6 @@
 {
   "name": "@crispengari/random-verification-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple node.js/ts package that generates random verification codes.",
   "main": "lib/index.js",
   "types": "lib",
